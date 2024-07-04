@@ -1,37 +1,52 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Cloud",
+    "name": "NAS",
+    "link": "https://nas.mrdxh.top:4443/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "Alist",
+    "link": "https://pan.mrdxh.top:8888/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Cloud",
+    "name": "EMBY",
+    "link": "https://emby.mrdxh.top:8888/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "Cloud",
+    "name": "Reader",
+    "link": "http://reader.mrdxh.top:8880/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Cloud",
+    "name": "PicHome",
+    "link": "http://pichome.mrdxh.top:8880/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Cloud",
+    "name": "Speed",
+    "link": "http://speed.mrdxh.top:8880/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Cloud",
+    "name": "ESXI",
+    "link": "https://10.10.10.2/"
+  },
+    {
+    "icon": "Cloud",
+    "name": "iKuai",
+    "link": "http://10.10.10.1/"
+  },
+    {
+    "icon": "Cloud",
+    "name": "OpenWRT",
+    "link": "http://10.10.10.3/"
+  },
+    {
+    "icon": "Cloud",
+    "name": "NAS",
+    "link": "http://10.10.10.10:5000/"
   }
 ]
